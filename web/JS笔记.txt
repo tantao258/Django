@@ -85,7 +85,7 @@ CSS补充
     
     示例：输入框
 
-JavaScript
+JavaScript    【https://www.cnblogs.com/wupeiqi/articles/5602773.html】
     独立的语言，浏览器具有js解释器
     
     JavaScript代码存在形式：
@@ -194,7 +194,7 @@ JavaScript
     
     
 
-Dom
+Dom    【https://www.cnblogs.com/wupeiqi/articles/5643298.html】
     1、找到标签
         获取单个元素        document.getElementById('i1')
         获取多个元素（列表）document.getElementsByTagName('div')
